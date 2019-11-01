@@ -1,0 +1,2 @@
+model_checkpoint_path: "linemodel2.ckpt-18"
+all_model_checkpoint_paths: "linemodel2.ckpt-18"

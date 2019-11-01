@@ -1,0 +1,6 @@
+model_checkpoint_path: "linemodel2.ckpt-18"
+all_model_checkpoint_paths: "linemodel2.ckpt-10"
+all_model_checkpoint_paths: "linemodel2.ckpt-12"
+all_model_checkpoint_paths: "linemodel2.ckpt-14"
+all_model_checkpoint_paths: "linemodel2.ckpt-16"
+all_model_checkpoint_paths: "linemodel2.ckpt-18"
